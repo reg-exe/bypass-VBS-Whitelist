@@ -1,8 +1,7 @@
 [
   {
-    "ip": "3DD4664DF1D61ECB",
-    "player_name": "Player_1",
-    "expiry_date": "2026-12-31",
-    "comment": "Main HD Player"
+    "ip": "192.168.1.100",
+    "expiry_date": "2024-12-31",
+    "comment": "Premium User Access"
   }
 ]
