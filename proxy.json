@@ -1,7 +1,17 @@
 [
   {
-    "ip": "127.0.0.1",
-    "expiry_date": "2026-11-31",
+    "ip": "103.244.143.62",
+    "expiry_date": "2024-12-31",
     "comment": "Premium User Access"
+  },
+  {
+    "ip": "103.145.67.89", 
+    "expiry_date": "2024-11-15",
+    "comment": "VIP Customer"
+  },
+  {
+    "ip": "45.76.123.44",
+    "expiry_date": "2024-10-20",
+    "comment": "Beta Tester"
   }
 ]
