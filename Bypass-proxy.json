@@ -1,22 +1,8 @@
 [
   {
-    "expiry_date": "9999-12-31",
-    "GSF": "3DD4664DF1D61ECB",
-    "comment": "Admin"
-  },
-  {
-    "expiry_date": "9999-12-31",
-    "GSF": "3DD4664DF1D61ECB",
-    "comment": "Admin"
-  },
-  {
-    "expiry_date": "9999-12-31",
-    "GSF": "3DD4664DF1D61ECB",
-    "comment": ""
-  },
-  {
-    "expiry_date": "9999-12-31",
-    "GSF": "3DD4664DF1D61ECB",
-    "comment": ""
+    "gsf_id": "3DD4664DF1D61ECB",
+    "player_name": "HD_Player_1",
+    "expiry_date": "2024-12-31",
+    "status": "active"
   }
 ]
